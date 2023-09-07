@@ -1,0 +1,25 @@
+/* You can add global styles to this file, and also import other style files */
+
+@import url('https://fonts.googleapis.com/css2?family=Asap+Condensed:ital,wght@1,500&display=swap');
+body{
+    color: rgb(77, 13, 13);
+    background-image: url('https://images.pexels.com/photos/4039781/pexels-photo-4039781.jpeg?auto=compress&cs=tinysrgb&w=600');
+    font-family: 'Asap Condensed', sans-serif;
+}
+/* Add this CSS code to your stylesheet */
+.navbar-nav li.nav-item a.nav-link {
+    color: rgb(77, 13, 13);
+}
+
+.logo{
+    height:15vh;
+    width: 150%;
+}
+.navbar{
+    background-color: rgb(212, 209, 202);
+}
+footer{
+    background-color: rgb(212, 209, 202);
+    padding: 10px;
+    margin-top: 10px;
+}
